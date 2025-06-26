@@ -24,11 +24,11 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p{
+#dedication > p:first-of-type + p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:salutation"],
+#dedication > p:first-of-type,
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
