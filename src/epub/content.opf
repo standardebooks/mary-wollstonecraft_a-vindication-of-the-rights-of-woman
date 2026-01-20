@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3420</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102099541</dc:source>
-		<meta property="se:word-count">83400</meta>
+		<meta property="se:word-count">83264</meta>
 		<meta property="se:reading-ease.flesch">45.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-wollstonecraft_a-vindication-of-the-rights-of-woman</meta>
