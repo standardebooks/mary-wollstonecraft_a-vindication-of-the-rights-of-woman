@@ -63,7 +63,7 @@
 		<meta property="schema:wordCount">83264</meta>
 		<meta property="schema:educationalLevel">45.22</meta>
 		<link href="https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/mary-wollstonecraft_a-vindication-of-the-rights-of-woman" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Mary Wollstonecraft</dc:creator>
