@@ -38,9 +38,9 @@
 		<meta property="file-as" refines="#fulltitle">Vindication of the Rights of Woman, A</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Feminism</dc:subject>
-		<dc:subject id="subject-2">Women's rights -- Great Britain</dc:subject>
-		<dc:subject id="subject-3">Women -- Education -- Great Britain</dc:subject>
-		<dc:subject id="subject-4">Women -- History -- 19th century</dc:subject>
+		<dc:subject id="subject-2">Women's rights--Great Britain</dc:subject>
+		<dc:subject id="subject-3">Women--Education--Great Britain</dc:subject>
+		<dc:subject id="subject-4">Women--History--19th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047741</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
